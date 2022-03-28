@@ -1,4 +1,4 @@
-# Stock-Tracker
+# Stock Tracker
 
 Project that creates a user interface for logging in and looking up stock information about various companies, with the ability to save companies to a favorites list that persists.
 

@@ -8,7 +8,7 @@ import re
 # function to return headers JSON object for Yahoo finance API calls
 # storing API key outside of program on local computer
 def get_headers():
-    file_path = "/Users/esegerberg/PycharmProjects/Stock Tracker/yahoo_api.json"
+    file_path = ""
     try:
         with open(file_path, 'r') as file:
             api_keys = json.loads(file.read())
